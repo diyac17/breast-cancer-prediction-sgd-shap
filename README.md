@@ -67,3 +67,24 @@ These features align with established clinical indicators of malignancy.
 ---
 
 ## Files in Repository
+
+data.csv → Breast Cancer dataset
+ResearchPaper.pdf → Full research study
+README.md → Project documentation
+
+---
+
+## Author
+
+**Diya Chauhan**  
+Machine Learning | Data Science | Healthcare AI
+
+---
+
+## Future Work
+
+Future improvements may include:
+
+- Integration of imaging datasets (mammograms, ultrasound)
+- Multi-modal learning combining clinical and genomic data
+- Deployment as a clinical decision-support tool
